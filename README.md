@@ -9,7 +9,7 @@ This is an end to end machine learning project which includes EDA and Predictive
 
 ## Dataset Description:
 The dataset used in this project was obtained from [source1](https://www.kaggle.com/harlfoxem/housesalesprediction?)<br>
-The dataset contains information about the aprtments foor rent in the Greater Accra and Greater Kumasi environs. <br>
+<br>
 The dataset contains 21 features and  21613 observations. The features include,
 * price
 * bedrooms
