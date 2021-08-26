@@ -1,4 +1,7 @@
-# Machine-Learning-Regression
+# Machine-Learning-Regression (King County House Price Prediction)
+![king_county](https://user-images.githubusercontent.com/63692930/130990596-fa3e1fd5-ef6f-446d-9704-ff61035d516e.jpg)
+
+
 The King County Housing Authority (KCHA) provides rental housing and rental assistance to more than 18,000 low and moderate income individuals and families throughout the county. 
 KCHA transforms distressed communities through well-designed, higher density, mixed-income housing that utilize energy and water saving technologies.
 
