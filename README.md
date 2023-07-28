@@ -1,4 +1,4 @@
-# Machine-Learning-Regression (King County House Price Prediction)
+# Application of Machine-Learning in House Price Prediction
 ![king_county](https://user-images.githubusercontent.com/63692930/130990596-fa3e1fd5-ef6f-446d-9704-ff61035d516e.jpg)
 
 
